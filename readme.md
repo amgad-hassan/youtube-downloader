@@ -1,6 +1,6 @@
 ## Youtube Downloader Web App
 -----------------------------
-Working youtube downloader app. Uses [youtube-dl](https://rg3.github.io/youtube-dl/) . 
+Working youtube downloader app. Uses [youtube-dl](https://rg3.github.io/youtube-dl/) . This App used to view and download the video you requested . 
 
 ## Quick Start
 
